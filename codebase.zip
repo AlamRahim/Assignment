@@ -54,7 +54,7 @@
               "titleText": "Never Miss an Update!",
               "bodyText": "Don't miss out on the latest updates & offers! Enable Edureka's push notifications by clicking 'Allow' button.",
               "okButtonText": "Allow",
-              "rejectButtonText": "Deny",
+              "rejectButtonText": "Allow",
               "okButtonColor": "#0052cc”"
             });          
           },10000);
